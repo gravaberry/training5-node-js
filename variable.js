@@ -3,3 +3,5 @@ var kata = 'buku programming'
 var is_correct = false
 
 console.log(kata)
+
+//training git hub

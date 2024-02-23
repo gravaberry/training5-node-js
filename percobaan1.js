@@ -1,5 +1,5 @@
 const http = require('http') //memanggil modul http , fitur bawaan node js
-
+var test = 'test';
 http.createServer(function (request, response){
     if(request.url == '/'){
         response.writeHead(200, {
